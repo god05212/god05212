@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=NumPy&logoColor=WHite"/>
 <img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=White"/>
 <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=plastic&logo=scikit-learn&logoColor=White"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=plastic&logo=SciPy&logoColor=White"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=White"/>
 <h5>🕓Version Control &ensp;&nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=White"/>
