@@ -5,6 +5,7 @@
 <h4>🏄 My Skills 🏄
 <h5>📚 Frameworks, Platforms and Libraries &ensp;&nbsp;
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=plastic&logo=Anaconda&logoColor=White"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=OpenCV&logoColor=White"/>
 <h5>💻IDEs &ensp;&nbsp;
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=plastic&logo=Eclipse IDE&logoColor=White"/>
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=plastic&logo=Google Colab&logoColor=White"/>
