@@ -8,8 +8,12 @@
 <img src="https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white"/>
 <h5>📚 Frameworks, Platforms and Libraries &ensp;&nbsp;
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=plastic&logo=Anaconda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00878F?style=plastic&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=OpenCV&logoColor=White"/>
 <h5>🛠️IDEs &ensp;&nbsp;
+<img src="https://img.shields.io/badge/Android Studio-333333?style=plastic&logo=androidstudio&logoColor=White"/>
+<img src="https://img.shields.io/badge/Atom-50b948?style=plastic&logo=Atom&logoColor=White"/>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=plastic&logo=Eclipse IDE&logoColor=White"/>
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=plastic&logo=Google Colab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=Jupyter&logoColor=white"/>
