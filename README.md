@@ -23,7 +23,9 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&logo=Visual Studio Code&logoColor=White"/>
 <h5>📋Languages &ensp;&nbsp;
 <img src="https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=C&logoColor=A8B9CC"/>
+<img src="https://img.shields.io/badge/CSS-FFFFFF?style=plastic&logo=CSS3&logoColor=1572B6"/>
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=A8B9CC"/>
+<img src="https://img.shields.io/badge/HTML-FFFFFF?style=plastic&logo=html5&logoColor=E34F26"/>
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=White"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=ffdd54"/>
 <h5>🤖ML/DL &ensp;&nbsp;
