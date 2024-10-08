@@ -23,15 +23,16 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&logo=Visual Studio Code&logoColor=White"/>
 <h5>📋Languages &ensp;&nbsp;
 <img src="https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=C&logoColor=A8B9CC"/>
-<img src="https://img.shields.io/badge/CSS-FFFFFF?style=plastic&logo=CSS3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=A8B9CC"/>
-<img src="https://img.shields.io/badge/HTML-FFFFFF?style=plastic&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=White"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=ffdd54"/>
 <h5>🤖ML/DL &ensp;&nbsp;
 <img src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=Keras&logoColor=White"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=NumPy&logoColor=White"/>
 <img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=White"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=plastic&logo=scikit-learn&logoColor=White"/>
 <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=plastic&logo=SciPy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=white"/>
