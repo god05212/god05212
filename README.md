@@ -14,13 +14,13 @@
 <h5>🛠️IDEs &ensp;&nbsp;
 <img src="https://img.shields.io/badge/Android Studio-333333?style=plastic&logo=androidstudio&logoColor=White"/>
 <img src="https://img.shields.io/badge/Atom-50b948?style=plastic&logo=Atom&logoColor=White"/>
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=plastic&logo=Eclipse IDE&logoColor=White"/>
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=plastic&logo=Google Colab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=plastic&logo=eclipseide&logoColor=White"/>
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=plastic&logo=googlecolab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=Jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=PyCharm&logoColor=black&color=black&labelColor=green"/>
 <img src="https://img.shields.io/badge/Replit-667881?style=plastic&logo=Replit&logoColor=White"/>
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=plastic&logo=Visual Studio&logoColor=White"/>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&logo=Visual Studio Code&logoColor=White"/>
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=plastic&logo=visualstudio&logoColor=White"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=White"/>
 <h5>📋Languages &ensp;&nbsp;
 <img src="https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=C&logoColor=A8B9CC"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=CSS3&logoColor=white"/>
